@@ -1,3 +1,4 @@
+@ echo off
 cd %programfiles%\Oracle\VirtualBox
 
 set /p id="Enter Drive number: "
